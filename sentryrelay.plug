@@ -1,0 +1,11 @@
+[Core]
+name = SentryRelay
+module = sentryrelay
+
+[Documentation]
+description = relays Sentry webhook messages
+
+[Python]
+version = 3
+
+[Errbot]
